@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Professional Web Developer
 -----------------
 
-I am a curious Software Engineer , enthusiastic about  learning new technologies. My strategy is to learn by doing so when I learn any new technology, I try to apply it. I can code for any MERN stack website. I can write clean and easily readable code and am always ready to take any challenges.
+I am a Professional Web Developer , enthusiastic about  learning new technologies. My strategy is to learn by doing so when I learn any new technology, I try to apply it. I can code for any MERN stack website. I can write clean and easily readable code and am always ready to take any challenges.
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [Link](http://https://imaginative-centaur-9bee48.netlify.app/)
